@@ -1,6 +1,3 @@
-Author of this README file: Zeid Alwash 
-Email: ZeidAlwash@cmail.carleton.ca
-
 Description:
 ------------
 There are three subsystems in this project: Floor, Elevator, and Scheduler.
