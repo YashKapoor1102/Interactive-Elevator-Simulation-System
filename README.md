@@ -62,7 +62,7 @@ extract all files from A3G8_milestone_2.zip. there should be elevatorSimulation_
 
 Credits:
 -------
-- Yash Kapoor 		(Worked on code, refactoring code, UML)
+- Yash Kapoor 		(Worked on code, refactoring code, UML, and README)
 - Faiaz Ahsan 		(Worked on code, rough draft of UML, and Sequence Diagram)
 - Zeid Alwash 		(Worked on code and rough draft of UML and README)
 - Fareen Lavji	  	(Worked on refactoring code, JUnit Tests, and updating README) 
