@@ -8,7 +8,6 @@ Specifically, the Floor subsystem reads the CSV file and sends the values to the
 The scheduler stores those values in a queue AllFloorRequests, the elevator determines which requests are serviceable based on the first request and notifies the scheduler to store those requests in another queue serviceableRequests. The elevator then iterates through both queues until they're empty. The  execution of this program is simple. The Floor subsystem executes first and prints "Starting at Floor". Then, The Floor subsystem sends the data that it reads from the CSV file to the scheduler class. The scheduler notifies the elevator, which then begins executing and prints out "Elevator Success", along with the data in the CSV file. Then, the elevator sends a request back to the scheduler that it is done. Hence, the scheduler sends a request back to the floor, telling it to start executing again. Once the floor starts executing again, it prints out "Ending at Floor", along with the data in the CSV file. 
 
 This program is made up of 5 files:
-
 	**Main.java:** A class that consists of the main method. 
 		     It is used to control the program and start the floor, elevator, and scheduler threads.
 	**Floor.java:** A class that consists of the floor thread that will execute first to send a request to
@@ -21,6 +20,7 @@ This program is made up of 5 files:
 	**FloorData.java:** A class that stores the data defined in the CSV file (i.e., time, initial floor
 			    the elevator is at, the direction the elevator is going in (up or down), and the final
 		      floor the elevator arrives at).
+
 
 Installation:
 -------------
