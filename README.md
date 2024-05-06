@@ -14,9 +14,9 @@ This program is made up of 5 files:
 			the scheduler. Also, it is responsible for reading the CSV file and setting the FloorData
 			Object, which notifies the scheduler to send a request to the elevator.  
 	**Elevator.java:** A class that consists of the elevator thread that will execute after the scheduler
-			   sends the requests.
+			   sends the requests.  
 	**Scheduler.java:** A class that consists of the scheduler thread (i.e., server) that is used to as a
-			    a communication channel between the clients (i.e., floor and elevator).
+			    a communication channel between the clients (i.e., floor and elevator).  
 	**FloorData.java:** A class that stores the data defined in the CSV file (i.e., time, initial floor
 			    the elevator is at, the direction the elevator is going in (up or down), and the final
 		      floor the elevator arrives at).
