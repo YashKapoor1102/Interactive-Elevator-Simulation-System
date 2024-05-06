@@ -9,10 +9,10 @@ The scheduler stores those values in a queue AllFloorRequests, the elevator dete
 
 This program is made up of 5 files:  
 	**Main.java:** A class that consists of the main method. 
-		     It is used to control the program and start the floor, elevator, and scheduler threads.
+		     It is used to control the program and start the floor, elevator, and scheduler threads.  
 	**Floor.java:** A class that consists of the floor thread that will execute first to send a request to
 			the scheduler. Also, it is responsible for reading the CSV file and setting the FloorData
-			Object, which notifies the scheduler to send a request to the elevator.
+			Object, which notifies the scheduler to send a request to the elevator.  
 	**Elevator.java:** A class that consists of the elevator thread that will execute after the scheduler
 			   sends the requests.
 	**Scheduler.java:** A class that consists of the scheduler thread (i.e., server) that is used to as a
