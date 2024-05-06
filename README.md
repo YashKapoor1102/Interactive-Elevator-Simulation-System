@@ -58,7 +58,7 @@ Usage:
 	  or elevator is running. 
 
 To find the sequence, UML diagram and State machine diagrams that we constructed for this assignment,
-extract all files from A3G8_milestone_2.zip. there should be elevatorSimulation_UML.png, elevatorSimulation_sequenceDiagram.png, Elevator_State_Machine_Diagram and Scheduler_State_Machine_Diagram in the root folder. 
+extract all files from A3G8_milestone_4.zip. there should be elevatorSimulation_UML.png, elevatorSimulation_sequenceDiagram.png, Elevator_State_Machine_Diagram and Scheduler_State_Machine_Diagram in the root folder. 
 
 Credits:
 -------
