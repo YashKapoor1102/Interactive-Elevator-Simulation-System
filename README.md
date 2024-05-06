@@ -20,7 +20,7 @@ This program is made up of 5 files:
 			    a communication channel between the clients (i.e., floor and elevator).
 	FloorData.java: A class that stores the data defined in the CSV file (i.e., time, initial floor
 			    the elevator is at, the direction the elevator is going in (up or down), and the final
-                      floor the elevator arrives at). 
+                      floor the elevator arrives at).
 
 Installation:
 -------------
