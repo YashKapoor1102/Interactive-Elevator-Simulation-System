@@ -1,5 +1,5 @@
-Description:
-------------
+## Description:
+
 There are three subsystems in this project: Floor, Elevator, and Scheduler.
 The scheduler is used as a communication channel between the clients (i.e., floor and elevator).
 The data in the CSV file gets passed from the floor -> scheduler -> elevator -> scheduler -> floor. 
