@@ -35,7 +35,7 @@ https://www.eclipse.org/downloads/packages/installer
 
 Usage:
 -------
-**Step 1:** Save A3G8_milestone_2.zip to a folder of your choice.
+**Step 1:** Save A3G8_milestone_4.zip to a folder of your choice.
 
 **Step 2:** Open Eclipse and ensure the "Java Browsing" perspective is selected
 	  by going to Window > Perspective > Open Perspective > Java Browsing.
