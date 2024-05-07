@@ -23,9 +23,7 @@ https://drive.google.com/file/d/1Hoiw_Mp5SNxVOwvAQfhB8jekU4U6Ig5t/view?usp=drive
 https://drive.google.com/file/d/1jeznb7a8ZJLK5elIyOsHcvyAQVPL14qL/view?usp=drive_link
 
 
-Description:
-------------
-
+## Description
 There are three subsystems in this project: Floor, Elevator, and Scheduler.
 The scheduler is used as a communication channel between the clients (i.e., floor and elevator).
 The data in the CSV file gets passed from the floor -> scheduler -> elevator -> scheduler -> floor. 
@@ -47,8 +45,7 @@ This program is made up of 5 files:
               floor the elevator arrives at).
 
 
-Installation:
--------------
+## Installation
 Most versions of Java will be able to run this program, but JDK 18 is recommended. 
 
 A Java IDE such as Eclipse is recommended as well. 
@@ -58,8 +55,7 @@ on how to install it for popular operating systems:
 
 https://www.eclipse.org/downloads/packages/installer
 
-Usage:
--------
+## Usage
 **Step 1:** Save A3G8_milestone_4.zip to a folder of your choice.
 
 **Step 2:** Open Eclipse and ensure the "Java Browsing" perspective is selected
@@ -85,8 +81,7 @@ Usage:
 To find the sequence, UML diagram and State machine diagrams that we constructed for this assignment,
 extract all files from A3G8_milestone_4.zip. there should be elevatorSimulation_UML.png, elevatorSimulation_sequenceDiagram.png, Elevator_State_Machine_Diagram and Scheduler_State_Machine_Diagram in the root folder. 
 
-Credits:
--------
+## Credits
 - Yash Kapoor 		(Worked on code, refactoring code, UML, and README)
 - Faiaz Ahsan 		(JUnit tests, rough draft of UML and Sequence Diagram)
 - Zeid Alwash 		(Worked on code, rough draft of UML and README)
