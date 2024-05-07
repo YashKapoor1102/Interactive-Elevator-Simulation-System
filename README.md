@@ -44,7 +44,7 @@ Usage:
 
 **Step 4:** Expand General, click on "Existing Projects into Workspace", and click Next.
 
-**Step 5:** Ensure that Select Archive File is checked and browse for A3G8_milestone_2.zip.
+**Step 5:** Ensure that Select Archive File is checked and browse for A3G8_milestone_4.zip.
 
 **Step 6:** Click Finish. 
 
