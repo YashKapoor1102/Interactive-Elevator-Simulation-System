@@ -1,3 +1,28 @@
+# Elevator Project
+
+## Introduction
+Welcome to our Elevator Simulation project! This system is designed to emulate the operation of a multi-floor
+elevator, using a CSV file to simulate various floor requests. Dive into our demo and code explanations
+below to see our project in action and understand the intricate details of our implementation.
+
+## Demo
+See our elevator system in action. Watch this quick demo recorded by Yash Kapoor:
+https://drive.google.com/file/d/12HUt9LV8JaaVcVEB9E1GLQNU7gGyJdwV/view?usp=drive_link
+
+## Detailed Code Explanations
+Gain deeper insights into our project's core components through these detailed video
+explanations recorded by Yash Kapoor:
+
+- Floor Class Explanation:
+https://drive.google.com/file/d/1_TeJdQQIhGewdK3BS8KhRDB1rjVV7eeC/view?usp=drive_link
+
+- Scheduler Class Explanation:
+https://drive.google.com/file/d/1Hoiw_Mp5SNxVOwvAQfhB8jekU4U6Ig5t/view?usp=drive_link
+
+- Elevator Class Explanation:
+https://drive.google.com/file/d/1jeznb7a8ZJLK5elIyOsHcvyAQVPL14qL/view?usp=drive_link
+
+
 Description:
 ------------
 
