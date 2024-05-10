@@ -70,7 +70,7 @@ on how to install it for popular operating systems:
 https://www.eclipse.org/downloads/packages/installer
 
 ## Usage
-**Step 1:** Download our project, A3G8_final_submission.zip, from here: https://drive.google.com/file/d/1tvgxvHA4b67YnvCytwONXd2wpTdGh5nT/view?usp=drive_link
+**Step 1:** Download our project, A3G8_final_submission.zip, from here: https://drive.google.com/file/d/1tvgxvHA4b67YnvCytwONXd2wpTdGh5nT/view?usp=drive_link  
 **Step 2:** Save A3G8_final_submission.zip to a folder of your choice.
 
 **Step 3:** Open Eclipse and ensure the "Java Browsing" perspective is selected
