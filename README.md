@@ -43,7 +43,7 @@ This program is made up of six essential files:
 		         There are 8 states for each elevator: 
 		         0 (stationary), 1 (moving up), 2 (moving down), 3 (doors 
 		         opening), 4 (doors closing), 5 (floor fault), 6 (door fault), 
-                     7 (out of service)  
+                     7 (out of service).
 	**ElevatorGUI.java:** The ElevatorGUI class represents a graphical user 
  				interface for an elevator system. It extends the JFrame  
 		            class and includes components such as text fields, labels, 
