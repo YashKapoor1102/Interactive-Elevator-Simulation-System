@@ -31,8 +31,8 @@ Specifically, the Floor subsystem reads the CSV file and sends the values to the
 The scheduler stores those values in a queue AllFloorRequests, the elevator determines which requests are serviceable based on the first request and notifies the scheduler to store those requests in another queue serviceableRequests. The elevator then iterates through both queues until they're empty. The  execution of this program is simple. The Floor subsystem executes first and prints "Starting at Floor". Then, The Floor subsystem sends the data that it reads from the CSV file to the scheduler class. The scheduler notifies the elevator, which then begins executing and prints out "Elevator Success", along with the data in the CSV file. Then, the elevator sends a request back to the scheduler that it is done. Hence, the scheduler sends a request back to the floor, telling it to start executing again. Once the floor starts executing again, it prints out "Ending at Floor", along with the data in the CSV file. 
 
 This program is made up of six essential files:  
-	**Floor.java:** Floor Class that consists of the floor thread that executes first to send requests to the scheduler at the time of the request.<br><br>    
-	**Scheduler.java:** Scheduler Class that consists of a thread that is used as a communication channel between the clients (i.e., floor and elevator).   
+	**Floor.java:** Floor Class that consists of the floor thread that executes first to send requests to the scheduler at the time of the request.<br>   
+	**Scheduler.java:** Scheduler Class that consists of a thread that is used as a communication channel between the clients (i.e., floor and elevator).<br>   
 	**Elevator.java:** Elevator Class that consists of the elevator thread that will 			   
 	               execute after the scheduler sends the request.
 			   Receives the request from the scheduler, processes the 
@@ -43,13 +43,13 @@ This program is made up of six essential files:
 		         There are 8 states for each elevator: 
 		         0 (stationary), 1 (moving up), 2 (moving down), 3 (doors 
 		         opening), 4 (doors closing), 5 (floor fault), 6 (door fault), 
-                     7 (out of service).  
+                     7 (out of service).<br>  
 	**ElevatorGUI.java:** The ElevatorGUI class represents a graphical user 
  				interface for an elevator system. It extends the JFrame  
 		            class and includes components such as text fields, labels, 
-				and icons for displaying elevator information and status.  
+				and icons for displaying elevator information and status.<br>  
 	**Pair.java:** Pair Class that the Elevator Class uses to clearly differentiate 
-		     one request from another and store Pair Objects in a queue.   
+		     one request from another and store Pair Objects in a queue.<br>  
 	**DestinationFloor.java:** DestinationFloor Class that is used by the Elevator 
 				     Class to move passengers to a specific destination 
 				     floor. It is used to differentiate destination floors 
