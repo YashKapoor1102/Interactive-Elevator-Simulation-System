@@ -70,24 +70,25 @@ on how to install it for popular operating systems:
 https://www.eclipse.org/downloads/packages/installer
 
 ## Usage
-**Step 1:** Save A3G8_final_submission.zip to a folder of your choice.
+**Step 1:** Download our project, A3G8_final_submission.zip, from here: https://drive.google.com/file/d/1tvgxvHA4b67YnvCytwONXd2wpTdGh5nT/view?usp=drive_link
+**Step 2:** Save A3G8_final_submission.zip to a folder of your choice.
 
-**Step 2:** Open Eclipse and ensure the "Java Browsing" perspective is selected
+**Step 3:** Open Eclipse and ensure the "Java Browsing" perspective is selected
 	  by going to Window > Perspective > Open Perspective > Java Browsing.
 
-**Step 3:** Click on File > Import from the Eclipse main menu.
+**Step 4:** Click on File > Import from the Eclipse main menu.
 
-**Step 4:** Expand General, click on "Existing Projects into Workspace", and click Next.
+**Step 5:** Expand General, click on "Existing Projects into Workspace", and click Next.
 
-**Step 5:** Ensure that Select Archive File is checked and browse for A3G8_final_submission.zip.
+**Step 6:** Ensure that Select Archive File is checked and browse for A3G8_final_submission.zip.
 
-**Step 6:** Click Finish. 
+**Step 7:** Click Finish. 
 
-**Step 7:** The project should now be in Package Explorer.
+**Step 8:** The project should now be in Package Explorer.
 
-**Step 8:** Expand project and expand src.
+**Step 9:** Expand project and expand src.
 
-**Step 9:** Click on the project package. You need to run the Scheduler Class first, then run the Elevator Class, 
+**Step 10:** Click on the project package. You need to run the Scheduler Class first, then run the Elevator Class, 
 	then finally, run the Floor Class. Also, we included the GUI in the Elevator Class, so we have a GUI
 	for each elevator (1, 2, 3, and 4). Hence, open the GUIs and spread them out on your screen to monitor
 	which floor/state the elevator is currently on/in. You can also look at the console for each class
@@ -97,7 +98,7 @@ https://www.eclipse.org/downloads/packages/installer
 	to the scheduler, which sends that acknowledgement to the floor, indicating the request has been successfully
 	processed by the elevator). 
 
-**Step 10:** IMPORTANT: to see the output of the floor, scheduler, and the elevator, you must click on “Display Selected Console”
+**Step 11:** IMPORTANT: to see the output of the floor, scheduler, and the elevator, you must click on “Display Selected Console”
 	and click on the console of the class that you want to view the output of. If you cannot find where “Display Selected Console”
 	is on Eclipse, then you can click on the console and press ALT + F7 on your keyboard to bring up the menu that allows you to
 	switch between the consoles of each class.
