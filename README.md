@@ -106,7 +106,7 @@ https://drive.google.com/file/d/1tvgxvHA4b67YnvCytwONXd2wpTdGh5nT/view?usp=drive
 	switch between the consoles of each class.
 
 ## Testing
-Once you are able to run the program, simply click on the SchedulerTest/ElevatorTest/ FloorTest/FloorDataTest JUnit classes
+Once you are able to run the program, simply click on the SchedulerTest/ElevatorTest/FloorTest/FloorDataTest JUnit classes
 to run the JUnit tests for our system. 
 
 
