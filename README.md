@@ -111,7 +111,7 @@ to run the JUnit tests for our system.
 
 
 ## Credits
-- Yash Kapoor 		(Worked on code, refactoring code, UML, and README)
+- Yash Kapoor 		(Worked on code, refactoring JUnit Tests, refactoring code, UML, and README)
 - Faiaz Ahsan 		(JUnit tests, rough draft of UML and Sequence Diagram)
 - Zeid Alwash 		(Worked on code, rough draft of UML and README)
 - Fareen Lavji	  	(JUnit Tests and updating README) 
