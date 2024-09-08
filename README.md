@@ -58,6 +58,17 @@ This program is made up of six essential files:<br><br>
 				     (passengers get picked up) and destination floor is 8 
 				     (passengers get dropped off)
 
+## UML and State Machine Diagrams
+For a better understanding of the system's architecture and internal states, you can refer to the following diagrams:
+
+- UML Class Diagram: <a href="https://drive.google.com/file/d/18IO8JgMc2rWlKJIZXzgAUJFwDqAMJe6L/view?usp=sharing">View UML Diagram</a><br><br>
+This diagram outlines the structure of the system, including the relationships between the Floor, Scheduler, and Elevator classes.
+
+- Scheduler State Machine Diagram: <a href="https://drive.google.com/file/d/1LLcUjhjRdyU99J8BJ0xk_lxXDMPlRvvU/view?usp=sharing">View Scheduler State Machine Diagram</a><br><br>
+This diagram shows the various states the scheduler can be in and how it transitions between them during the simulation.
+
+- Elevator State Machine Diagram: <a href="https://drive.google.com/file/d/1OEEc9zVYza_VgoMYx4cvt3c06JyMMdsG/view?usp=sharing">View Elevator State Machine Diagram</a><br><br>
+This diagram outlines the different states the elevator can be in (e.g., moving up, moving down, stationary) and the transitions triggered by requests or errors.
 
 ## Installation
 Most versions of Java will be able to run this program, but JDK 18 is recommended. 
